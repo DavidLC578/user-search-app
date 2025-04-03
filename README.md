@@ -1,8 +1,16 @@
 # User Search Application
 
-A modern React application for searching and managing users with filtering, sorting, and search capabilities.
+A practice React application for searching and managing users with filtering, sorting, and search capabilities. This project serves as a learning tool to demonstrate React, TypeScript, and API integration concepts.
 
 ![User Search Interface](./public/finduser.webp)
+
+## About
+
+This application fetches user data from the public [Random User API](https://randomuser.me/api/), allowing users to:
+- Search for users by username
+- Filter results in real-time
+- Sort users alphabetically
+- View user details including profile picture, username, email, and phone number
 
 ## Features
 
